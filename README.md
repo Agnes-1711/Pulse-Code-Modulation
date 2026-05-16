@@ -106,9 +106,11 @@ plt.show()
 ```
 # Output Waveform
 # PCM:
+
 <img width="1265" height="992" alt="WhatsApp Image 2026-05-16 at 10 27 44" src="https://github.com/user-attachments/assets/895964d1-d0f8-4621-9f31-bb4f7626c2aa" />
 
 # DM:
+
 <img width="1261" height="862" alt="WhatsApp Image 2026-05-16 at 10 31 21" src="https://github.com/user-attachments/assets/e2156193-d006-4b81-b4d4-082f92744ff5" />
 
 # Results
